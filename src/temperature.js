@@ -22,5 +22,5 @@ export function fahrenheitToCelsius(fahrenheit) {
  * @returns {number}
  */
 export function celsiusToKelvin(celsius) {
-  return celsius + 273.15;
+  return celsius + 273;
 }
