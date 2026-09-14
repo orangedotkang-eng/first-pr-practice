@@ -1,15 +1,15 @@
 # first-pr-practice
 
-A tiny temperature conversion libary for practicing pull requests.
+A tiny temperature conversion library for practicing pull requests.
 
-## Instalation
+## Installation
 
 ```bash
 git clone https://github.com/<your-username>/first-pr-practice.git
 cd first-pr-practice
 ```
 
-No dependencies are requried — it runs on Node.js 18 or newer.
+No dependencies are required — it runs on Node.js 18 or newer.
 
 ## Usage
 
