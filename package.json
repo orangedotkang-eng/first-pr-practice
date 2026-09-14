@@ -1,0 +1,11 @@
+{
+  "name": "first-pr-practice",
+  "version": "1.0.0",
+  "description": "A tiny temperature conversion library for practicing pull requests.",
+  "type": "module",
+  "main": "src/temperature.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
