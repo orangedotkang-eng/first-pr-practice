@@ -1,5 +1,7 @@
 # first-pr-practice
 
+[![Tests](https://github.com/orangedotkang-eng/first-pr-practice/actions/workflows/test.yml/badge.svg)](https://github.com/orangedotkang-eng/first-pr-practice/actions/workflows/test.yml)
+
 A tiny temperature conversion library for practicing pull requests.
 
 ## Installation
